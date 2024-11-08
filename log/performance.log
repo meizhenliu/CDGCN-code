@@ -1,0 +1,10 @@
+Epoch: 0: Image to text: (0.0, 0.1, 0.1) Text to image: (20.3, 48.2, 62.7) rsum: 131.3
+Epoch: 1: Image to text: (0.0, 0.1, 0.1) Text to image: (13.1, 35.0, 48.5) rsum: 96.8
+Epoch: 0: Image to text: (0.0, 0.2, 0.3) Text to image: (29.6, 58.4, 70.9) rsum: 159.5
+Epoch: 1: Image to text: (0.1, 0.3, 0.4) Text to image: (29.6, 53.8, 64.4) rsum: 148.6
+Epoch: 2: Image to text: (0.1, 0.2, 0.3) Text to image: (30.0, 55.9, 66.2) rsum: 152.7
+Epoch: 3: Image to text: (0.0, 0.0, 0.1) Text to image: (33.5, 59.4, 69.3) rsum: 162.2
+Epoch: 0: Image to text: (0.0, 0.1, 0.2) Text to image: (29.9, 59.7, 71.2) rsum: 161.1
+Epoch: 0: Image to text: (0.0, 0.2, 0.2) Text to image: (39.1, 69.4, 79.3) rsum: 188.2
+Epoch: 1: Image to text: (0.0, 0.1, 0.3) Text to image: (48.7, 76.5, 85.3) rsum: 210.8
+Epoch: 0: Image to text: (0.0, 0.2, 0.2) Text to image: (32.4, 62.6, 74.5) rsum: 169.9
