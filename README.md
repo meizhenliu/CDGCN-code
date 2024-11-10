@@ -3,7 +3,7 @@
 
 Data
 
-The Flickr30k dataset is accessed through URL: https://shannon.cs.illinois.edu/DenotationGraph/ Obtain data; The MSCOCO dataset is accessed through URL: https://cocodataset.org/#download Obtain data.
+If you want to directly obtain Flickr30k and MSCOCO datasets and preprocessed data features, you can access: https://pan.baidu.com/s/1hi4dJGcoK7XmPPjOzuW5Bg ,Extracted code is taxo
 
 The download links for original COCO/F30K images, precomputed BUTD features, and corresponding vocabularies are from the official repo of SCAN(https://github.com/kuanghuei/SCAN#download-data). The precomp folders contain pre-computed BUTD region features, data/coco/images contains raw MS-COCO images, and data/f30k/flickr30k-images contains raw Flickr30K images. Because the download link for the pre-computed features in SCAN is seemingly taken down. 
 
